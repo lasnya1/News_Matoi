@@ -1,7 +1,7 @@
 
 <!--
-    Title >> #stella_00
-    Rewrite >> TemplateCode_Ver.1.02
+Title >> #stella_00
+Rewrite >> TemplateCode_Ver.1.02
 // Contents >> start
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    
 // TemplateTextRewrite >> start -->
