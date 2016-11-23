@@ -1,26 +1,27 @@
+
 <!--
     Title >> #stella_00
-    Rewrite >> TemplateCode_Ver.1.01
+    Rewrite >> TemplateCode_Ver.1.02
 // Contents >> start
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    
 // TemplateTextRewrite >> start -->
 <p><img class="https://cloud.githubusercontent.com/assets/23473032/20461403/8a763696-af40-11e6-9662-62fef0ae3f7d.jpg" title="https://cloud.githubusercontent.com/assets/23473032/20461403/8a763696-af40-11e6-9662-62fef0ae3f7d.jpg" src="https://cloud.githubusercontent.com/assets/23473032/20461403/8a763696-af40-11e6-9662-62fef0ae3f7d.jpg" alt="https://cloud.githubusercontent.com/assets/23473032/20461403/8a763696-af40-11e6-9662-62fef0ae3f7d.jpg" /></p>
 <!--
 // TemplateTextBox    
-    <p class="r-fuki kirei1"><strong>ƒlƒRƒAƒ‹ƒNEƒJƒIƒX</strong><br /></p>
-    <p class="l-fuki lasnya1"><strong>ƒ‰ƒXƒjƒƒEƒGƒfƒ…ƒP[ƒVƒ‡ƒ“</strong><br /></p>
+    <p class="r-fuki kirei1"><strong>ãƒã‚³ã‚¢ãƒ«ã‚¯ãƒ»ã‚«ã‚ªã‚¹</strong><br /></p>
+    <p class="l-fuki lasnya1"><strong>ãƒ©ã‚¹ãƒ‹ãƒ£ãƒ»ã‚¨ãƒ‡ãƒ¥ã‚±ãƒ¼ã‚·ãƒ§ãƒ³</strong><br /></p>
 // TemplateText -->
-<p class="r-fuki kirei1"><strong>ƒlƒRƒAƒ‹ƒNEƒJƒIƒX</strong><br />‚Â‚¢‚ÉŽn‚Ü‚Á‚½‚Ì‚É‚áô</p>
-<p class="l-fuki lasnya1"><strong>ƒ‰ƒXƒjƒƒEƒGƒfƒ…ƒP[ƒVƒ‡ƒ“</strong><br />‚±‚ê‚Ü‚Å‚ÌŽï–¡‚ÉˆêŠÑ«‚ª‚È‚©‚Á‚½ŽålŒöu‚½‚Ü‚¿‚á‚ñv‚ªƒQ[ƒ€§ì‚Ì•”Šˆ‚Å¬’·‚µ‚Ä‚¢‚­ƒAƒjƒ!‚Æ‚¢‚¤‚±‚Æ‚È‚ñ‚Å‚·‚ËOO</p>
-<p class="r-fuki kirei1"><strong>ƒlƒRƒAƒ‹ƒNEƒJƒIƒX</strong><br />ƒQ[ƒ€§ìŒn‚ÍD•¨‚È‚Ì‚É‚áô</p>
-<p class="l-fuki lasnya1"><strong>ƒ‰ƒXƒjƒƒEƒGƒfƒ…ƒP[ƒVƒ‡ƒ“</strong><br />ÂtŒn‚ÍAŒ³‹C‚ªo‚Ü‚·‚æ‚ËOO</p>
+<p class="r-fuki kirei1"><strong>ãƒã‚³ã‚¢ãƒ«ã‚¯ãƒ»ã‚«ã‚ªã‚¹</strong><br />ã¤ã„ã«å§‹ã¾ã£ãŸã®ã«ã‚ƒâ™ª</p>
+<p class="l-fuki lasnya1"><strong>ãƒ©ã‚¹ãƒ‹ãƒ£ãƒ»ã‚¨ãƒ‡ãƒ¥ã‚±ãƒ¼ã‚·ãƒ§ãƒ³</strong><br />ã“ã‚Œã¾ã§ã®è¶£å‘³ã«ä¸€è²«æ€§ãŒãªã‹ã£ãŸä¸»äººå…¬ã€ŒãŸã¾ã¡ã‚ƒã‚“ã€ãŒã‚²ãƒ¼ãƒ åˆ¶ä½œã®éƒ¨æ´»ã§æˆé•·ã—ã¦ã„ãã‚¢ãƒ‹ãƒ¡!ã¨ã„ã†ã“ã¨ãªã‚“ã§ã™ã­ï¼¾ï¼¾</p>
+<p class="r-fuki kirei1"><strong>ãƒã‚³ã‚¢ãƒ«ã‚¯ãƒ»ã‚«ã‚ªã‚¹</strong><br />ã‚²ãƒ¼ãƒ åˆ¶ä½œç³»ã¯å¥½ç‰©ãªã®ã«ã‚ƒâ™ª</p>
+<p class="l-fuki lasnya1"><strong>ãƒ©ã‚¹ãƒ‹ãƒ£ãƒ»ã‚¨ãƒ‡ãƒ¥ã‚±ãƒ¼ã‚·ãƒ§ãƒ³</strong><br />é’æ˜¥ç³»ã¯ã€å…ƒæ°—ãŒå‡ºã¾ã™ã‚ˆã­ï¼¾ï¼¾</p>
 <!--
 // Category >> link
     src >> http://hatenablog-parts.com/embed?url=http://www.lasnya.com/archive/category/ < none > 
     href >> http://www.lasnya.com/archive/category/ < none >
 -->
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="ƒXƒeƒ‰‚Ì‚Ü‚Ù‚¤" src="http://hatenablog-parts.com/embed?url=http://www.lasnya.com/archive/category/ƒX
-	ƒeƒ‰‚Ì‚Ü‚Ù‚¤" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://www.lasnya.com/archive/category/ƒXƒeƒ‰‚Ì‚Ü‚Ù‚¤">www.lasnya.com</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="ã‚¹ãƒ†ãƒ©ã®ã¾ã»ã†" src="http://hatenablog-parts.com/embed?url=http://www.lasnya.com/archive/category/ã‚¹
+	ãƒ†ãƒ©ã®ã¾ã»ã†" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://www.lasnya.com/archive/category/ã‚¹ãƒ†ãƒ©ã®ã¾ã»ã†">www.lasnya.com</a></cite></p>
 <!--
 // TemplateTextRewrite >> end
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -31,70 +32,70 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 // #1_Image
 // #1_MainText >> start -->
 <p><img class="" title="" src="" alt="" /></p>
-<p><!-- #Spase --></p>
-<p class="r-fuki kirei1"><strong>ƒlƒRƒAƒ‹ƒNEƒJƒIƒX</strong><br /></p>
-<p class="l-fuki lasnya1"><strong>ƒ‰ƒXƒjƒƒEƒGƒfƒ…ƒP[ƒVƒ‡ƒ“</strong><br /></p>
-<p class="r-fuki kirei1"><strong>ƒlƒRƒAƒ‹ƒNEƒJƒIƒX</strong><br /></p>
-<p class="l-fuki lasnya1"><strong>ƒ‰ƒXƒjƒƒEƒGƒfƒ…ƒP[ƒVƒ‡ƒ“</strong><br /></p>
-<p><!-- #Spase --></p>
+<p><!-- #spase --></p>
+<p class="r-fuki kirei1"><strong>ãƒã‚³ã‚¢ãƒ«ã‚¯ãƒ»ã‚«ã‚ªã‚¹</strong><br /></p>
+<p class="l-fuki lasnya1"><strong>ãƒ©ã‚¹ãƒ‹ãƒ£ãƒ»ã‚¨ãƒ‡ãƒ¥ã‚±ãƒ¼ã‚·ãƒ§ãƒ³</strong><br /></p>
+<p class="r-fuki kirei1"><strong>ãƒã‚³ã‚¢ãƒ«ã‚¯ãƒ»ã‚«ã‚ªã‚¹</strong><br /></p>
+<p class="l-fuki lasnya1"><strong>ãƒ©ã‚¹ãƒ‹ãƒ£ãƒ»ã‚¨ãƒ‡ãƒ¥ã‚±ãƒ¼ã‚·ãƒ§ãƒ³</strong><br /></p>
+<p><!-- #spase --></p>
 <!--
 // #1 >> end -->
-<p>?</p>
+<p><!-- #spase --></p>
 <!--
 // #2_Image
 // #2_MainText >> start -->
 <p><img class="" title="" src="" alt="" /></p>
-<p><!-- #Spase --></p>
-<p class="r-fuki kirei1"><strong>ƒlƒRƒAƒ‹ƒNEƒJƒIƒX</strong><br /></p>
-<p class="l-fuki lasnya1"><strong>ƒ‰ƒXƒjƒƒEƒGƒfƒ…ƒP[ƒVƒ‡ƒ“</strong><br /></p>
-<p class="r-fuki kirei1"><strong>ƒlƒRƒAƒ‹ƒNEƒJƒIƒX</strong><br /></p>
-<p class="l-fuki lasnya1"><strong>ƒ‰ƒXƒjƒƒEƒGƒfƒ…ƒP[ƒVƒ‡ƒ“</strong><br /></p>
-<p><!-- #Spase --></p>
+<p><!-- #spase --></p>
+<p class="r-fuki kirei1"><strong>ãƒã‚³ã‚¢ãƒ«ã‚¯ãƒ»ã‚«ã‚ªã‚¹</strong><br /></p>
+<p class="l-fuki lasnya1"><strong>ãƒ©ã‚¹ãƒ‹ãƒ£ãƒ»ã‚¨ãƒ‡ãƒ¥ã‚±ãƒ¼ã‚·ãƒ§ãƒ³</strong><br /></p>
+<p class="r-fuki kirei1"><strong>ãƒã‚³ã‚¢ãƒ«ã‚¯ãƒ»ã‚«ã‚ªã‚¹</strong><br /></p>
+<p class="l-fuki lasnya1"><strong>ãƒ©ã‚¹ãƒ‹ãƒ£ãƒ»ã‚¨ãƒ‡ãƒ¥ã‚±ãƒ¼ã‚·ãƒ§ãƒ³</strong><br /></p>
+<p><!-- #spase --></p>
 <!--
 // #2 >> end -->
-<p>?</p>
+<p><!-- #spase --></p>
 <!--
 // #3_Image
 // #3_MainText >> start -->
 <p><img class="" title="" src="" alt="" /></p>
-<p><!-- #Spase --></p>
-<p class="r-fuki kirei1"><strong>ƒlƒRƒAƒ‹ƒNEƒJƒIƒX</strong><br /></p>
-<p class="l-fuki lasnya1"><strong>ƒ‰ƒXƒjƒƒEƒGƒfƒ…ƒP[ƒVƒ‡ƒ“</strong><br /></p>
-<p class="r-fuki kirei1"><strong>ƒlƒRƒAƒ‹ƒNEƒJƒIƒX</strong><br /></p>
-<p class="l-fuki lasnya1"><strong>ƒ‰ƒXƒjƒƒEƒGƒfƒ…ƒP[ƒVƒ‡ƒ“</strong><br /></p>
-<p><!-- #Spase --></p>
+<p><!-- #spase --></p>
+<p class="r-fuki kirei1"><strong>ãƒã‚³ã‚¢ãƒ«ã‚¯ãƒ»ã‚«ã‚ªã‚¹</strong><br /></p>
+<p class="l-fuki lasnya1"><strong>ãƒ©ã‚¹ãƒ‹ãƒ£ãƒ»ã‚¨ãƒ‡ãƒ¥ã‚±ãƒ¼ã‚·ãƒ§ãƒ³</strong><br /></p>
+<p class="r-fuki kirei1"><strong>ãƒã‚³ã‚¢ãƒ«ã‚¯ãƒ»ã‚«ã‚ªã‚¹</strong><br /></p>
+<p class="l-fuki lasnya1"><strong>ãƒ©ã‚¹ãƒ‹ãƒ£ãƒ»ã‚¨ãƒ‡ãƒ¥ã‚±ãƒ¼ã‚·ãƒ§ãƒ³</strong><br /></p>
+<p><!-- #spase --></p>
 <!--
 // #3 >> end -->
-<p>?</p>
+<p><!-- #stera --></p>
 <!--
 // #4_Image
 // #4_MainText >> start -->
 <p><img class="" title="" src="" alt="" /></p>
-<p><!-- #Spase --></p>
-<p class="r-fuki kirei1"><strong>ƒlƒRƒAƒ‹ƒNEƒJƒIƒX</strong><br /></p>
-<p class="l-fuki lasnya1"><strong>ƒ‰ƒXƒjƒƒEƒGƒfƒ…ƒP[ƒVƒ‡ƒ“</strong><br /></p>
-<p class="r-fuki kirei1"><strong>ƒlƒRƒAƒ‹ƒNEƒJƒIƒX</strong><br /></p>
-<p class="l-fuki lasnya1"><strong>ƒ‰ƒXƒjƒƒEƒGƒfƒ…ƒP[ƒVƒ‡ƒ“</strong><br /></p>
-<p><!-- #Spase --></p>
+<p><!-- #spase --></p>
+<p class="r-fuki kirei1"><strong>ãƒã‚³ã‚¢ãƒ«ã‚¯ãƒ»ã‚«ã‚ªã‚¹</strong><br /></p>
+<p class="l-fuki lasnya1"><strong>ãƒ©ã‚¹ãƒ‹ãƒ£ãƒ»ã‚¨ãƒ‡ãƒ¥ã‚±ãƒ¼ã‚·ãƒ§ãƒ³</strong><br /></p>
+<p class="r-fuki kirei1"><strong>ãƒã‚³ã‚¢ãƒ«ã‚¯ãƒ»ã‚«ã‚ªã‚¹</strong><br /></p>
+<p class="l-fuki lasnya1"><strong>ãƒ©ã‚¹ãƒ‹ãƒ£ãƒ»ã‚¨ãƒ‡ãƒ¥ã‚±ãƒ¼ã‚·ãƒ§ãƒ³</strong><br /></p>
+<p><!-- #spase --></p>
 <!--
 // #4 >> end -->
 <!--
 // MainTextRewrite >> end 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 // TemplateTextRewrite >> start -->
-<h3>ŠÖ˜A¤•i Ð‰î</h3>
+<h3>é–¢é€£å•†å“ ç´¹ä»‹</h3>
 <!--
 // amazon_afi >> link -->
 <p><a href="https://www.amazon.co.jp/gp/product/B01LWRBY9J/ref=as_li_qf_sp_asin_il?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=B01LWRBY9J&amp;linkCode=as2&amp;tag=lasnya-22"><img src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B01LWRBY9J&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=JP&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=lasnya-22" alt="" border="0" /></a><img style="border: none !important; margin: 0px !important;" src="http://ir-jp.amazon-adsystem.com/e/ir?t=lasnya-22&amp;l=as2&amp;o=9&amp;a=B01LWRBY9J" alt="" width="1" height="1" border="0" /></p>
-<p><!-- #Spase --></p>
+<p><!-- #spase --></p>
 <!--
 // TemplateText -->
-<p class="r-fuki kirei1"><strong>ƒlƒRƒAƒ‹ƒNEƒJƒIƒX</strong><br />ˆÈãB‚ç‚·‚É‚á‚ë‚®‚Å‚µ‚½‚É‚áB</p>
-<p class="l-fuki lasnya1"><strong>ƒ‰ƒXƒjƒƒEƒGƒfƒ…ƒP[ƒVƒ‡ƒ“</strong><br />ŽŸT‚àŠy‚µ‚Ý‚Å‚·‚Ë`OO‚Å‚Í‚Ü‚½—ˆTô</p>
-<p><!-- #Spase --></p>
+<p class="r-fuki kirei1"><strong>ãƒã‚³ã‚¢ãƒ«ã‚¯ãƒ»ã‚«ã‚ªã‚¹</strong><br />ä»¥ä¸Šã€‚ã‚‰ã™ã«ã‚ƒã‚ãã§ã—ãŸã«ã‚ƒã€‚</p>
+<p class="l-fuki lasnya1"><strong>ãƒ©ã‚¹ãƒ‹ãƒ£ãƒ»ã‚¨ãƒ‡ãƒ¥ã‚±ãƒ¼ã‚·ãƒ§ãƒ³</strong><br />æ¬¡é€±ã‚‚æ¥½ã—ã¿ã§ã™ã­ï½žï¼¾ï¼¾ã§ã¯ã¾ãŸæ¥é€±â™ª</p>
+<p><!-- #spase --></p>
 <!--
 // twitter >> link -->
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="‚ç‚·‚É‚á@ŠCŠOioŒv‰æ (@LRAST_CH) | Twitter" src="//hatenablog-parts.com/embed?url=http://twitter.com/LRAST_CH" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://twitter.com/LRAST_CH">twitter.com</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="ã‚‰ã™ã«ã‚ƒ@æµ·å¤–é€²å‡ºè¨ˆç”» (@LRAST_CH) | Twitter" src="//hatenablog-parts.com/embed?url=http://twitter.com/LRAST_CH" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://twitter.com/LRAST_CH">twitter.com</a></cite></p>
 <!--
 // TemplateTextRewrite >> end
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
